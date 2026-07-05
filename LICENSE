@@ -1,3 +1,29 @@
+License Coverage and Fictional Materials Statement
+
+Repository: hospital-chwp2-reliability-reconciliation
+
+The publisher of this repository states that the nine input files listed below are original synthetic materials prepared specifically 
+for the Hospital CHWP-2 Reliability Reconciliation task.
+
+Covered input files:
+
+1. HOSP_CHW_asset_register_and_tag_crosswalk.csv
+2. HOSP_CHW_CMMS_work_order_export.csv
+3. HOSP_CHW_vibration_temperature_route_log.csv
+4. HOSP_CHW_pump_curve_and_field_readings.xlsx
+5. HOSP_CHW_alignment_and_baseplate_report.docx
+6. HOSP_CHW_parts_inventory_and_lubrication_log.csv
+7. HOSP_CHW_BAS_trend_export.csv
+8. HOSP_CHW_tower_water_treatment_and_basin_log.csv
+9. HOSP_CHW_operator_rounds_and_alarm_notes.pdf
+
+These files contain fictional hospital facilities records, fictional CMMS work orders, synthetic vibration and temperature readings, 
+synthetic pump curve and field readings, fictional alignment and baseplate notes, fictional inventory and lubrication records, synthetic 
+BAS trend data, fictional cooling-tower and water-treatment logs, and fictional operator rounds and alarm notes.
+
+They are not copies of real hospital records, real patient data, real employee data, real facility maintenance records, real BAS exports, 
+real CMMS records, real OEM documents, confidential employer files, proprietary contractor reports, or client data.
+
 Creative Commons Legal Code
 
 CC0 1.0 Universal
