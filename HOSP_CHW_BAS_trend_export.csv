@@ -1,0 +1,33 @@
+bas_id,timestamp,chwp2_hz,flow_gpm_bas,flow_scale_state,ultrasonic_gpm,suction_psi,discharge_psi,strainer_up_psi,strainer_down_psi,hx_in_psi,hx_out_psi,chw_supply_f,chw_return_f,ct4_wetbulb_f,ct4_supply_f,ct4_approach_f,bv410_cmd_pct,bv410_feedback_pct,alarm_or_event,trace_note
+BAS-001,2026-08-03 07:00,47,1620,pre-correction,1215,10.8,52.2,,,,,44.0,53.2,74.0,84.2,10.2,42,48,low delta T,pre scale issue
+BAS-002,2026-08-04 10:00,50,1755,pre-correction,1320,11.3,58.9,,,,,44.5,53.4,75.0,85.8,10.8,45,52,flow low alarm,no DP taps
+BAS-003,2026-08-05 16:20,50,1782,pre-correction,1335,11.4,59.1,,,,,44.7,52.1,75.5,86.6,11.1,48,55,vibration alarm,post spider replacement
+BAS-004,2026-08-07 17:00,50,1710,pre-correction,1283,10.9,57.6,,,36.5,27.2,45.0,52.0,75.0,87.9,12.9,51,61,seal leak still active,HX DP high
+BAS-005,2026-08-08 15:35,47,1545,pre-correction,1160,10.6,50.7,,,36.2,27.4,45.4,51.5,75.0,88.6,13.6,54,67,post alignment vibration alarm,site pass not effective
+BAS-006,2026-08-09 14:30,50,1688,pre-correction,1266,10.7,57.5,13.0,9.2,36.0,27.8,45.6,51.1,75.0,88.4,13.4,61,72,first strainer DP after taps,DP 3.8 psi
+BAS-007,2026-08-10 11:30,50,1700,pre-correction,1275,10.5,57.2,13.4,8.1,36.2,28.4,45.7,50.9,75.2,88.9,13.7,65,77,HX DP high,strainer DP 5.3 psi
+BAS-008,2026-08-12 09:45,50,1370,post-correction,1375,11.8,62.7,13.2,7.9,35.8,28.6,44.8,54.7,74.0,86.2,12.2,38,42,flow scaling corrected,tower still high
+BAS-009,2026-08-13 06:30,50,1362,post-correction,1368,11.7,62.1,13.1,8.0,35.7,28.0,44.6,54.1,73.8,82.1,8.3,30,32,tower better; HX still elevated,HX DP 7.7 psi
+BAS-010,2026-08-15 14:05,50,1325,post-correction,1330,10.9,59.2,13.5,5.1,35.2,27.1,45.0,52.8,74.1,81.9,7.8,28,31,strainer pre-clean high,DP 8.4 psi
+BAS-011,2026-08-15 15:20,50,1452,post-correction,1458,12.2,64.4,13.0,10.9,34.8,27.0,44.5,54.4,74.0,81.8,7.8,27,30,post strainer clean,DP 2.1 psi
+BAS-012,2026-08-16 06:50,47,1190,post-correction,1198,11.1,54.4,12.9,9.6,34.6,27.2,45.3,51.4,74.2,81.7,7.5,29,32,short chiller safety shutdown,normal tower approach
+BAS-013,2026-08-07 08:00,50,1383,pre-correction,1394,11.3,60.6,,,35.4,27.2,44.5,53.4,74.0,85.6,11.6,36,39,trend only,context row
+BAS-014,2026-08-07 16:00,50,1394,pre-correction,1340,11.6,61.8,,,35.0,27.4,44.5,54.2,74.0,86.8,12.8,42,46,trend only,context row
+BAS-015,2026-08-08 00:00,47,1350,pre-correction,1349,11.9,57.0,,,35.4,27.6,44.5,51.0,74.0,82.0,8.0,48,53,trend only,context row
+BAS-016,2026-08-08 08:00,50,1361,pre-correction,1358,11.0,58.2,,,35.0,27.0,44.5,51.8,74.0,83.2,9.2,30,32,trend only,context row
+BAS-017,2026-08-08 16:00,50,1372,pre-correction,1367,11.3,59.4,,,35.4,27.2,44.5,52.6,74.0,84.4,10.4,36,39,trend only,context row
+BAS-018,2026-08-09 00:00,47,1383,pre-correction,1376,11.6,60.6,,,35.0,27.4,44.5,53.4,74.0,85.6,11.6,42,46,trend only,context row
+BAS-019,2026-08-09 08:00,50,1394,pre-correction,1385,11.9,61.8,,,35.4,27.6,44.5,54.2,74.0,86.8,12.8,48,53,trend only,context row
+BAS-020,2026-08-09 16:00,50,1350,pre-correction,1394,11.0,57.0,13.4,8.2,35.0,27.0,44.5,51.0,74.0,82.0,8.0,30,32,trend only,context row
+BAS-021,2026-08-10 00:00,47,1361,pre-correction,1340,11.3,58.2,13.0,9.0,35.4,27.2,44.5,51.8,74.0,83.2,9.2,36,39,trend only,context row
+BAS-022,2026-08-10 08:00,50,1372,pre-correction,1349,11.6,59.4,13.2,8.6,35.0,27.4,44.5,52.6,74.0,84.4,10.4,42,46,trend only,context row
+BAS-023,2026-08-10 16:00,50,1383,pre-correction,1358,11.9,60.6,13.4,8.2,35.4,27.6,44.5,53.4,74.0,85.6,11.6,48,53,trend only,context row
+BAS-024,2026-08-11 00:00,47,1394,pre-correction,1367,11.0,61.8,13.0,9.0,35.0,27.0,44.5,54.2,74.0,86.8,12.8,30,32,trend only,context row
+BAS-025,2026-08-11 08:00,50,1350,pre-correction,1376,11.3,57.0,13.2,8.6,35.4,27.2,44.5,51.0,74.0,82.0,8.0,36,39,trend only,context row
+BAS-026,2026-08-11 16:00,50,1361,pre-correction,1385,11.6,58.2,13.4,8.2,35.0,27.4,44.5,51.8,74.0,83.2,9.2,42,46,trend only,context row
+BAS-027,2026-08-12 00:00,47,1372,pre-correction,1394,11.9,59.4,13.0,9.0,35.4,27.6,44.5,52.6,74.0,84.4,10.4,48,53,trend only,context row
+BAS-028,2026-08-12 08:00,50,1383,pre-correction,1340,11.0,60.6,13.2,8.6,35.0,27.0,44.5,53.4,74.0,85.6,11.6,30,32,trend only,context row
+BAS-029,2026-08-12 16:00,50,1394,post-correction,1349,11.3,61.8,13.4,8.2,35.4,27.2,44.5,54.2,74.0,86.8,12.8,36,39,trend only,context row
+BAS-030,2026-08-13 00:00,47,1350,post-correction,1358,11.6,57.0,13.0,9.0,35.0,27.4,44.5,51.0,74.0,82.0,8.0,42,46,trend only,context row
+BAS-031,2026-08-13 08:00,50,1361,post-correction,1367,11.9,58.2,13.2,8.6,35.4,27.6,44.5,51.8,74.0,83.2,9.2,48,53,trend only,context row
+BAS-032,2026-08-13 16:00,50,1372,post-correction,1376,11.0,59.4,13.4,8.2,35.0,27.0,44.5,52.6,74.0,84.4,10.4,30,32,trend only,context row

@@ -1,0 +1,35 @@
+route_id,timestamp,asset_tag,route_point,orientation,overall_mm_s_rms,dominant_frequency,axial_mm_s_rms,bearing_temp_c,oem_limit_basis,route_note,label_displayed,reconciled_location,status_flag
+VIB-001,2026-08-03 06:30,CHWP-2,drive-end bearing,horizontal,3.9,1x running speed,1.0,70,"alert 4.5, alarm 7.1, temp review 80, stop 90",baseline,TT-CHWP2-DE,CHWP-2 drive-end bearing,OK
+VIB-002,2026-08-03 06:30,CHWP-2,non-drive-end bearing,horizontal,2.7,1x running speed,0.6,64,"alert 4.5, alarm 7.1",lower than DE,CHWP2-NDE,CHWP-2 non-drive-end bearing,OK
+VIB-003,2026-08-03 06:30,M-CHWP-2,motor drive-end,horizontal,2.2,1x running speed,0.9,56,"alert 4.5, alarm 7.1",motor lower than pump,MTR-402-DE,M-CHWP-2 motor DE,OK
+VIB-004,2026-08-04 06:30,CHWP-2,drive-end bearing,horizontal,5.1,1x running speed,1.8,74,"alert 4.5, alarm 7.1, temp review 80, stop 90",above alert,TT-CHWP2-DE,CHWP-2 drive-end bearing,ALERT
+VIB-005,2026-08-04 06:30,CHWP-2,non-drive-end bearing,horizontal,3.3,1x running speed,1.0,68,"alert 4.5, alarm 7.1",lower than DE,CHWP2-NDE,CHWP-2 non-drive-end bearing,OK
+VIB-006,2026-08-04 06:30,M-CHWP-2,motor drive-end,horizontal,2.3,1x running speed,0.9,57,"alert 4.5, alarm 7.1",motor lower than pump,MTR-402-DE,M-CHWP-2 motor DE,OK
+VIB-007,2026-08-05 06:30,CHWP-2,drive-end bearing,horizontal,7.6,1x running speed,3.5,79,"alert 4.5, alarm 7.1, temp review 80, stop 90",first alarm,TT-CHWP2-DE,CHWP-2 drive-end bearing,ALARM
+VIB-008,2026-08-05 06:30,CHWP-2,non-drive-end bearing,horizontal,4.2,1x running speed,1.9,73,"alert 4.5, alarm 7.1",lower than DE,CHWP2-NDE,CHWP-2 non-drive-end bearing,OK
+VIB-009,2026-08-05 06:30,M-CHWP-2,motor drive-end,horizontal,2.5,1x running speed,1.0,58,"alert 4.5, alarm 7.1",motor lower than pump,MTR-402-DE,M-CHWP-2 motor DE,OK
+VIB-010,2026-08-06 06:30,CHWP-2,drive-end bearing,horizontal,8.4,1x running speed,4.0,86,"alert 4.5, alarm 7.1, temp review 80, stop 90",high 1x,TT-CT4FAN-DE,CHWP-2 drive-end bearing,ALARM
+VIB-011,2026-08-06 06:30,CHWP-2,non-drive-end bearing,horizontal,4.6,1x running speed,2.2,80,"alert 4.5, alarm 7.1",lower than DE,CHWP2-NDE,CHWP-2 non-drive-end bearing,ALERT
+VIB-012,2026-08-06 06:30,M-CHWP-2,motor drive-end,horizontal,2.6,1x running speed,1.0,59,"alert 4.5, alarm 7.1",motor lower than pump,MTR-402-DE,M-CHWP-2 motor DE,OK
+VIB-013,2026-08-07 13:50,CHWP-2,drive-end bearing,horizontal,9.8,1x running speed,4.7,88,"alert 4.5, alarm 7.1, temp review 80, stop 90",post disputed seal,TT-CT4FAN-DE,CHWP-2 drive-end bearing,ALARM
+VIB-014,2026-08-07 13:50,CHWP-2,non-drive-end bearing,horizontal,5.2,1x running speed,2.6,82,"alert 4.5, alarm 7.1",lower than DE,CHWP2-NDE,CHWP-2 non-drive-end bearing,ALERT
+VIB-015,2026-08-07 13:50,M-CHWP-2,motor drive-end,horizontal,2.7,1x running speed,1.1,60,"alert 4.5, alarm 7.1",motor lower than pump,MTR-402-DE,M-CHWP-2 motor DE,OK
+VIB-016,2026-08-08 15:20,CHWP-2,drive-end bearing,horizontal,10.6,1x running speed,5.2,90,"alert 4.5, alarm 7.1, temp review 80, stop 90",after site pass alignment,TT-CT4FAN-DE,CHWP-2 drive-end bearing,ALARM
+VIB-017,2026-08-08 15:20,CHWP-2,non-drive-end bearing,horizontal,5.5,1x running speed,2.9,84,"alert 4.5, alarm 7.1",lower than DE,CHWP2-NDE,CHWP-2 non-drive-end bearing,ALERT
+VIB-018,2026-08-08 15:20,M-CHWP-2,motor drive-end,horizontal,2.8,1x running speed,1.1,61,"alert 4.5, alarm 7.1",motor lower than pump,MTR-402-DE,M-CHWP-2 motor DE,OK
+VIB-019,2026-08-10 07:00,CHWP-2,drive-end bearing,horizontal,8.9,1x running speed,4.0,84,"alert 4.5, alarm 7.1, temp review 80, stop 90",after HX flush,TT-CHWP2-DE,CHWP-2 drive-end bearing,ALARM
+VIB-020,2026-08-10 07:00,CHWP-2,non-drive-end bearing,horizontal,4.8,1x running speed,2.2,78,"alert 4.5, alarm 7.1",lower than DE,CHWP2-NDE,CHWP-2 non-drive-end bearing,ALERT
+VIB-021,2026-08-10 07:00,M-CHWP-2,motor drive-end,horizontal,2.9,1x running speed,1.2,62,"alert 4.5, alarm 7.1",motor lower than pump,MTR-402-DE,M-CHWP-2 motor DE,OK
+VIB-022,2026-08-12 07:00,CHWP-2,drive-end bearing,horizontal,12.1,1x running speed,6.2,92,"alert 4.5, alarm 7.1, temp review 80, stop 90",peak vibration and temp,TT-CHWP2-DE,CHWP-2 drive-end bearing,ALARM
+VIB-023,2026-08-12 07:00,CHWP-2,non-drive-end bearing,horizontal,6.0,1x running speed,3.4,86,"alert 4.5, alarm 7.1",lower than DE,CHWP2-NDE,CHWP-2 non-drive-end bearing,ALERT
+VIB-024,2026-08-12 07:00,M-CHWP-2,motor drive-end,horizontal,3.1,1x running speed,1.2,63,"alert 4.5, alarm 7.1",motor lower than pump,MTR-402-DE,M-CHWP-2 motor DE,OK
+VIB-025,2026-08-14 07:00,CHWP-2,drive-end bearing,horizontal,9.4,1x running speed,4.1,82,"alert 4.5, alarm 7.1, temp review 80, stop 90",after tower clean,TT-CHWP2-DE,CHWP-2 drive-end bearing,ALARM
+VIB-026,2026-08-14 07:00,CHWP-2,non-drive-end bearing,horizontal,4.9,1x running speed,2.3,76,"alert 4.5, alarm 7.1",lower than DE,CHWP2-NDE,CHWP-2 non-drive-end bearing,ALERT
+VIB-027,2026-08-14 07:00,M-CHWP-2,motor drive-end,horizontal,3.2,1x running speed,1.2,64,"alert 4.5, alarm 7.1",motor lower than pump,MTR-402-DE,M-CHWP-2 motor DE,OK
+VIB-028,2026-08-16 07:00,CHWP-2,drive-end bearing,horizontal,8.7,1x running speed,3.9,81,"alert 4.5, alarm 7.1, temp review 80, stop 90",final still alarm,TT-CHWP2-DE,CHWP-2 drive-end bearing,ALARM
+VIB-029,2026-08-16 07:00,CHWP-2,non-drive-end bearing,horizontal,4.7,1x running speed,2.1,75,"alert 4.5, alarm 7.1",lower than DE,CHWP2-NDE,CHWP-2 non-drive-end bearing,ALERT
+VIB-030,2026-08-16 07:00,M-CHWP-2,motor drive-end,horizontal,3.3,1x running speed,1.3,65,"alert 4.5, alarm 7.1",motor lower than pump,MTR-402-DE,M-CHWP-2 motor DE,OK
+VIB-031,2026-08-05 08:00,GB-CT4,gearbox horizontal,horizontal,2.1,fan speed harmonics,0.7,63,tower gearbox alarm 5.0,normal gearbox condition,GB-CT4-H,GB-CT4 gearbox,OK
+VIB-032,2026-08-08 08:00,GB-CT4,gearbox horizontal,horizontal,2.4,fan speed harmonics,0.7,63,tower gearbox alarm 5.0,normal gearbox condition,GB-CT4-H,GB-CT4 gearbox,OK
+VIB-033,2026-08-12 08:00,GB-CT4,gearbox horizontal,horizontal,2.6,fan speed harmonics,0.7,63,tower gearbox alarm 5.0,normal gearbox condition,GB-CT4-H,GB-CT4 gearbox,OK
+VIB-034,2026-08-16 08:00,GB-CT4,gearbox horizontal,horizontal,2.7,fan speed harmonics,0.7,63,tower gearbox alarm 5.0,normal gearbox condition,GB-CT4-H,GB-CT4 gearbox,OK
